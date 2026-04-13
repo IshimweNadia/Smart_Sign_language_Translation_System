@@ -1,0 +1,11 @@
+opencv-python
+opencv-contrib-python
+numpy
+tensorflow
+mediapipe
+cvzone
+vosk
+pyttsx3
+sounddevice
+pyaudio
+comtypes
